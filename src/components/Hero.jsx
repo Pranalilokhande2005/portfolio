@@ -79,7 +79,7 @@ const Hero = () => {
             </a>
 
             <a
-              href="mailto:YOUR_EMAIL@gmail.com"
+              href="mailto:lpranali490@gmail.com"
               className="px-6 py-3 rounded-xl bg-slate-800 hover:bg-slate-700 transition"
             >
               Contact Me

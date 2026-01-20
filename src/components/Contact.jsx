@@ -36,7 +36,7 @@ const Contact = () => {
             Contact Me
           </h2>
           <p className="mt-4 text-slate-300 max-w-2xl mx-auto">
-            I’m open to collaboration, freelance projects, or just a friendly chat. Reach out via the form or social links below.
+            I’m open to collaboration or a freelance projects. Reach out via the form or social links below.
           </p>
         </motion.div>
 
